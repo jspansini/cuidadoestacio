@@ -1,4 +1,4 @@
-# Cuidado - Projeto de extensão Estacio
+# Cuidado - Projeto de extensão Estácio
 Gestão de tarefas para enfermeiras
 
 <h2> Projeto Python Django com SQLite</h2>
