@@ -16,3 +16,9 @@ Gestão de tarefas para enfermeiras
    <li> Bootstrap </li>
    <li> Sqlite </li>
 </ul>
+
+
+Link apresentação: https://www.canva.com/design/DAGR3ss7cx0/jmjONvmVQcRF3Rx4O32qeg/edit?utm_content=DAGR3ss7cx0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+Link protótipo figma: https://www.figma.com/design/R1cOyRbCOaQzBuJuIEUSKc/Cuidado---Controle-para-enfermeiras?node-id=25-1723&t=OmKBfEthE8pXCi5P-1
+
